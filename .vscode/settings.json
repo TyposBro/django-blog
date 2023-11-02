@@ -3,6 +3,7 @@
     "editor.defaultFormatter": "ms-python.autopep8"
   },
   "python.formatting.provider": "autopep8",
+  "python.languageServer": "Pylance",
   "workbench.colorCustomizations": {
     "activityBar.activeBackground": "#137751",
     "activityBar.background": "#137751",
